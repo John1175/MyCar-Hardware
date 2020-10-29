@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=SW2 Old Footprint=TSW DIP-12*12*8 New Footprint=TSW DIP-6*6*4.3
+Change Component Footprint: Designator=SW3 Old Footprint=TSW DIP-12*12*8 New Footprint=TSW DIP-6*6*4.3
+Change Component Footprint: Designator=SW4 Old Footprint=TSW DIP-12*12*8 New Footprint=TSW DIP-6*6*4.3
+Change Component Footprint: Designator=SW5 Old Footprint=TSW DIP-12*12*8 New Footprint=TSW DIP-6*6*4.3
+Change Component Footprint: Designator=SW6 Old Footprint=TSW DIP-12*12*8 New Footprint=TSW DIP-6*6*4.3
+Added Room: Name=MyCar

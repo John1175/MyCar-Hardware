@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=VSS Pin=X1-2
+Removed Pin From Net: NetName=VSS Pin=X1-3
+Change Component Comment : Designator=X2 Old Comment=40MHz New Comment=40
+Added Pin To Net: NetName=SWITCH0 Pin=SW1-1
+Added Pin To Net: NetName=SWITCH1 Pin=SW1-2
+Added Pin To Net: NetName=SWITCH2 Pin=SW1-3
+Added Pin To Net: NetName=NetR8_1 Pin=SW1-4
+Added Pin To Net: NetName=NetR5_1 Pin=SW1-5
+Added Pin To Net: NetName=NetR2_1 Pin=SW1-6
+Added Pin To Net: NetName=KEY2 Pin=SW4-1
+Added Pin To Net: NetName=GND_SIGNAL Pin=SW4-2
+Added Pin To Net: NetName=KEY3 Pin=SW5-1
+Added Pin To Net: NetName=GND_SIGNAL Pin=SW5-2
+Added Member To Class: ClassName=MyCar Member=Component SW1 CSW-3P
+Added Member To Class: ClassName=MyCar Member=Component SW4 SW TACT-SPST/SM
+Added Member To Class: ClassName=MyCar Member=Component SW5 SW TACT-SPST/SM
+Added Room: Name=MyCar

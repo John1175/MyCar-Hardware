@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MyCar.PrjPCB]
+   Generated File[MyCar-RoundHoles.TXT]
+   Generated File[MyCar-SlotHoles.TXT]
+   Generated File[MyCar.LDP]
+   Generated File[MyCar.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 18:38:29 On 2020/8/19

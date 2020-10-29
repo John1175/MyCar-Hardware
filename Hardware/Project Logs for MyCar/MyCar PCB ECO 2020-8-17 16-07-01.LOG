@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=OSC_OUT Pin=Y1-1
+Removed Pin From Net: NetName=OSC_IN Pin=Y1-2
+Removed Member From Class: ClassName=MyCar Member=Y1
+Change component parameters: Designator = "J4"; Footprint = "DC-2.54-L-Z-20P"; UniqueID = "\BBEHPXUI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "CLASS"; Value = "IO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DZ1"; Footprint = "SMA DO-214AC"; UniqueID = "\EEICPRZU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "3V/0.5W稳压管"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RF1"; Footprint = "FU 0805"; UniqueID = "\IVVGHCHJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "PPTC自恢复保险丝"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S1"; Footprint = "MTS-10x"; UniqueID = "\KMFIXAXF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "MTS10x系列3脚扭子开关"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW1"; Footprint = "CSW DIP-3P"; UniqueID = "\KDNGEEYR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "3路编码开关"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X1"; Footprint = "OSC MC-146"; UniqueID = "\TJCELEAL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "2脚无源脚晶振"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=X2(OSC 1612-4P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "4脚无源晶振"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "负载电容"; Value = "CL20pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OSC_IN Pin=X2-1
+Added Pin To Net: NetName=GND_SIGNAL Pin=X2-2
+Added Pin To Net: NetName=OSC_OUT Pin=X2-3
+Added Pin To Net: NetName=GND_SIGNAL Pin=X2-4
+Added Member To Class: ClassName=MyCar Member=Component X2 40
+Added Room: Name=MyCar
